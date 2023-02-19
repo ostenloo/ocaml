@@ -1,0 +1,4 @@
+(lang dune 3.6)
+(name gamesolver24)
+(sections (lib .) (bin ../../bin) (doc ../../doc/gamesolver24))
+(files (lib (META dune-package opam)) (bin (gamesolver24)) (doc (README.md)))
