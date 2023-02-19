@@ -1,0 +1,5 @@
+# dune init project gamesolver24
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /Users/austinliu/Programming/ocaml
+# Auto-detected concurrency: 10
